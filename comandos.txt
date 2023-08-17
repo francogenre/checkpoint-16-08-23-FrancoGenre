@@ -1,0 +1,500 @@
+  36  git remote add origin https://github.com/francogenre/TrabajoPracticoCodoACodo.git
+   37  git remote -v
+   38  git push origin master
+   39  git clone https://github.com/BraianTroncoso/estadistica-Hackathon.TeamProUTN.git
+   40  git clone https://github.com/SebasGalvan/estadistica-Hackathon.TeamProUTN.git
+   41  git clone https://github.com/BraianTroncoso/ESTADISTICA-PROYECTO-INTEGRADOR-FRONTEND.git
+   42  git checkout dev
+   43  git init
+   44  git checkout dev
+   45  git status
+   46  git branch
+   47  git status
+   48  git checkout
+   49  git checkout dev
+   50  git add .
+   51  git status
+   52  git commit -m "Comiteé los cambios realizados antes de mis cambios"
+   53  git status
+   54  git branch
+   55  git checkout dev
+   56  git clone https://github.com/CodeSystem2022/ProyectoIntegradorTeamProUTN.git
+   57  git status
+   58  git init
+   59  git status
+   60  git pull
+   61  git pull main
+   62  git checkout main
+   63  git clone https://github.com/CodeSystem2022/ProyectoIntegradorTeamProUTN.git
+   64  cd Proy
+   65  cd ProyectoIntegradorTeamProUTN/
+   66  git pull
+   67  git checkout Marca
+   68  git status
+   69  git add .
+   70  git commit -m "Update Implementación"
+   71  git push
+   72  exit
+   73  git status
+   74  git status
+   75  git status
+   76  git pull
+   77  git status
+   78  git status
+   79  git add .
+   80  git status
+   81  git status
+   82  git status
+   83  git status
+   84  git status
+   85  git status
+   86  git status
+   87  git add .
+   88  git commit -m "Update Model"
+   89  git status
+   90  git status
+   91  git add .
+   92  git commit -m "Update Seeder"
+   93  git status
+   94  git push
+   95  git status
+   96  git add .
+   97  git commit -m "Update modelos de autos"
+   98  git push
+   99  git status
+  100  exit
+  101  git status
+  102  git pull
+  103  git status
+  104  git status
+  105  git status
+  106  git branch Repuesto
+  107  git status
+  108  git checkout Repuesto
+  109  git status
+  110  git add .
+  111  git status
+  112  git commit -m "Update Repuesto"
+  113  git status
+  114  git push
+  115  git push --set-upstream origin Repuesto
+  116  git status
+  117  git push
+  118  clear
+  119  git status
+  120  git push
+  121  git push -u origin --all
+  122  git fetch
+  123  git status
+  124  git push
+  125  git push -u origin master
+  126  git clone https://github.com/CodeSystem2022/ProyectoIntegradorTeamProUTN.git
+  127  cd ProyectoIntegradorTeamProUTN
+  128  git branch repuesto
+  129  gir branch Repuesto
+  130  git status
+  131  git init
+  132  git status
+  133  git checkout Repuesto
+  134  git status
+  135  git add .
+  136  git status
+  137  git commit -m "Update Repuestos"
+  138  git status
+  139  git push
+  140  git push --set-upstream origin Repuesto
+  141  exit
+  142  git clone https://github.com/CodeSystem2022/ProyectoIntegradorTeamProUTN.git
+  143  git status
+  144  git status
+  145  clear
+  146  git clone https://github.com/CodeSystem2022/ProyectoIntegradorTeamProUTN.git
+  147  exit
+  148  git clone https://github.com/CodeSystem2022/ProyectoIntegradorTeamProUTN.git
+  149  git init
+  150  git add ..
+  151  git status
+  152  ls -la
+  153  ls
+  154  git config --list
+  155  git remote -v
+  156  Para agregar el nuevo enlace remoto al repositorio en tu directorio local, puedes hacer lo siguiente:
+  157  1. Abre una terminal o línea de comandos en tu sistema y navega hasta el directorio raíz de tu repositorio local de Git.
+  158  2. Verifica el nombre y la URL de los remotos actuales de tu repositorio local utilizando el comando `git remote -v`. Esto te mostrará una lista de los remotos actuales, junto con sus nombres y URLs.
+  159  3. Si el remoto anterior sigue estando presente, elimínalo utilizando el comando `git remote remove <nombre-remoto>`. En este caso, el nombre del remoto podría ser `origin`. Por lo tanto, el comando sería el siguiente:
+  160  ```
+  161  git remote remove origin
+  162  ```
+  163  4. Agrega el nuevo enlace remoto como un remoto en tu repositorio local utilizando el comando `git remote add <nombre-remoto> <url-remoto>`. En este caso, el nombre del remoto podría ser `origin` y la URL podría ser `https://github.com/francogenre/T.P.IntegradorBootstrap.git`. Por lo tanto, el comando sería el siguiente:
+  164  ```
+  165  git remote add origin https://github.com/francogenre/T.P.IntegradorBootstrap.git
+  166  ```
+  167  5. Descarga los cambios del repositorio remoto a tu repositorio local utilizando el comando `git pull <nombre-remoto> <rama>`. En este caso, la rama principal del repositorio es `main`, por lo que el comando sería el siguiente:
+  168  ```
+  169  git pull origin main
+  170  ```
+  171  Una vez que hayas realizado estos pasos, tu repositorio local estará conectado al nuevo repositorio remoto y tendrás los cambios más recientes en tu repositorio local.
+  172  $ 5. Descarga los cambios del repositorio remoto a tu repositorio local utilizando el comando `git pull <nombre-remoto> <rama>`. En este caso, la rama principal del repositorio es `main`, por lo que el comando sería el siguiente
+  173  git remote add origin https://github.com/francogenre/T.P.IntegradorBootstrap.git
+  174  git config --global --add safe.directory 'D:/Cursos/Codo a Codo Java/T. P. Bootstrap'
+  175  git remote add origin https://github.com/francogenre/T.P.IntegradorBootstrap.git
+  176  git pull origin main
+  177  git add ..
+  178  git log
+  179  git add .
+  180  git status
+  181  git commit -m "Primer commit: pasar los archivos a GitHub"
+  182  git push origin master
+  183  git checkout main
+  184  git merge master
+  185  git status
+  186  git add .
+  187  git status
+  188  git push
+  189  git pull
+  190  git status
+  191  git push
+  192  git branch
+  193  Sí, si ya has fusionado los cambios de la rama "master" en la rama "main" y estás seguro de que no necesitas la rama "master" en el futuro, puedes eliminarla.
+  194  Para eliminar la rama "master", sigue estos pasos:
+  195  1. Asegúrate de estar en otra rama que no sea la rama "master". Puedes verificar la rama actual ejecutando el comando `git branch`.
+  196  2. Ejecuta el comando `git branch -d master` para eliminar la rama "master". Si la rama "master" contiene confirmaciones que no se han fusionado en otra rama, Git te dará un mensaje de error y no permitirá la eliminación. En ese caso, puedes utilizar el comando `git branch -D master` en su lugar para forzar la eliminación de la rama.
+  197  Una vez que hayas eliminado la rama "master", la única rama que quedará en tu repositorio local será la rama "main".
+  198  Es importante tener en cuenta que si ya has eliminado la rama "master" en tu repositorio local y quieres eliminarla también en el repositorio remoto en GitHub, debes ejecutar el comando `git push origin --delete master` para eliminar la rama remota.
+  199  git branch -d master
+  200  git branch -d master
+  201  git branch -D master
+  202  git status
+  203  git branch
+  204  git push origin --delete master
+  205  git push origin --delete master
+  206  touch README.md
+  207  git status
+  208  git add .
+  209  git commit -m "Agregué README"
+  210  git status
+  211  git push
+  212  exit
+  213  git clone https://github.com/CodeSystem2022/Debugging_Demons_Tercer_Semestre.git
+  214  git pull
+  215  git checkout semana-1-Franco
+  216  git status
+  217  git add .
+  218  git commit -m "Creada semana 1"
+  219  git push
+  220  exit
+  221  git pull
+  222  git checkout Semana-2-Franco
+  223  git status
+  224  git status
+  225  git pull
+  226  ls
+  227  ls
+  228  cd Semana 2 - 10-04
+  229  cd "Semana 2 - 10-04"
+  230  mkdir JavaScript
+  231  cd Genre, Franco Sebastian
+  232  cd "Genre, Franco Sebastian
+  233  cd "Genre, Franco Sebastian"
+  234  exit
+  235  cd "Genre, Franco Sebastian"
+  236  mkdir JavaScript
+  237  mkdir Python
+  238  cd ../../
+  239  git add .
+  240  git status
+  241  git commit -m "Creada la semana 2"
+  242  git status
+  243  git push
+  244  git satus
+  245  git status
+  246  cd ..
+  247  cd Debugging_Demons_Tercer_Semestre/
+  248  git pull
+  249  git status
+  250  ls
+  251  git pull
+  252  git checkout Semana-3-Franco
+  253  s
+  254  git reflog
+  255  git reset --hard <00e6e78>
+  256  git reset --hard origin/Semana-2-Franco^
+  257  git log Semana-2-Franco
+  258  git status
+  259  cd ..
+  260  cd Debugging_Demons_Tercer_Semestre/
+  261  git checkout main
+  262  git status
+  263  git pull
+  264  git ls
+  265  ls
+  266  git config core.sparsecheckout true
+  267  git checkout Semana-2-Franco
+  268  rm .git/info/sparse-checkout
+  269  git config core.sparsecheckout false
+  270  git pull
+  271  git checkout main
+  272  git pull
+  273  git fetch
+  274  git checkout Semana-2-Franco
+  275  git status
+  276  git branch -r
+  277  git status
+  278  git checkout main
+  279  git ckeckout Semana-2-Franco
+  280  git checkout Semana-2-Franco
+  281  git pull
+  282  exit
+  283  git status
+  284  git add .
+  285  git commit -m "Arreglado lo de la carpeta de lección 1 que no iba"
+  286  git push
+  287  git status
+  288  git checkout main
+  289  git checkout Semana-2-Franco
+  290  git checkout Semana-3-Franco
+  291  git status
+  292  git pull
+  293  git status
+  294  git status
+  295  git add .
+  296  git commit -m "Agregada las lecciones 3"
+  297  git push
+  298  git checkout Semana-3
+  299  git pull
+  300  git status
+  301  git add .
+  302  git commit -m "refactor"
+  303  git push
+  304  git checkout Semana-4-Franco
+  305  git branch -r
+  306  git branch -l
+  307  git branch -a
+  308  git branch -r
+  309  git pull
+  310  git branch -r
+  311  git branch -l
+  312  git status
+  313  git checkout Semana-4-Franco
+  314  git status
+  315  git add .
+  316  git commit -m "Prueba semana 4"
+  317  git push
+  318  git status
+  319  exit
+  320  git pull
+  321  git status
+  322  git checkout Semana-5-Franco
+  323  git status
+  324  git add .
+  325  git commit -m "Actualizada semana 5"
+  326  git push
+  327  git status
+  328  exit
+  329  git branch -r
+  330  git status
+  331  git status
+  332  git pull
+  333  git status
+  334  git checkout Semana-8-Franco
+  335  git status
+  336  git add .
+  337  git commit -m "Subidos los archivos de JAva, JavaScript y Python de la semana 8"
+  338  git push
+  339  git status
+  340  xit
+  341  exit
+  342  git pull
+  343  git status
+  344  git pull
+  345  git checkout Semana-6-Franco
+  346  git status
+  347  git add .
+  348  git commit -m "Subidos ejercicios de la semana 6"
+  349  git status
+  350  git push
+  351  git status
+  352  git pull
+  353  git checkout Semana-7-Franco
+  354  git status
+  355  git pull
+  356  exit
+  357  exit
+  358  git pull
+  359  exit
+  360  git checkout Semana-4-Franco
+  361  git checkout Semana-8-Franco
+  362  git checkout Semana-7-Franco
+  363  git checkout Semana-6-Franco
+  364  git checkout Senana-7-Franco
+  365  git checkout Semana-7-Franco
+  366  exit
+  367  git clone https://github.com/DebuggingDemons/Integrador_Tercer_Semestre.git
+  368  exit
+  369  git pull
+  370  activate
+  371  activate.bat
+  372  cd ..
+  373  cd ..
+  374  python -m venv nombre_del_entorno
+  375  python --version
+  376  git clone https://github.com/CodeSystem2022/Debugging-Demons-Tercer-Semestre-Integrador.git
+  377  exit
+  378  git pull
+  379  git checkout Semama-9-Franco
+  380  git status
+  381  git checkout Semana-9-Franco
+  382  git status
+  383  git add .
+  384  git commit -m "Completada semana 9"
+  385  git push
+  386  git status
+  387  git pull
+  388  git checkout Semana-10-Franco
+  389  git status
+  390  git add .
+  391  git commit -m "Completada semana 10"
+  392  git push
+  393  git checkout Semana-11-Franco
+  394  git pull
+  395  git checkout Semana-11-Franco
+  396  git checkout Semana-10-Franco
+  397  git checkout Semana-11-Franco
+  398  git status
+  399  git add .
+  400  git commit -m "Completada semana 11"
+  401  git push
+  402  git pull
+  403  git checkout Semana-12-Franco
+  404  gir status
+  405  git status
+  406  git add .
+  407  git commit -m "Completada semana 12"
+  408  git push
+  409  git pull
+  410  git checkout Semana-13-Franco
+  411  exit
+  412  git pull
+  413  git status
+  414  git add .
+  415  git commit -m "Completada semana 13"
+  416  git push
+  417  exit
+  418  git --version
+  419  git config user.mail
+  420  git config user.email
+  421  git config user.name
+  422  git init
+  423  mkdir 3A - Git (26/07/23)
+  424  mkdir 3A - Git - 26/07/23
+  425  exit
+  426  mkdir 3A-Git-26-07-23
+  427  cd 3A-Git-26-07-23
+  428  git init
+  429  nano app.js
+  430  mkdir 3A-Git-26-07-23
+  431  cd 3A-Git-26-07-23
+  432  git init
+  433  touch app.js
+  434  git status
+  435  git add app.js
+  436  git status
+  437  pwd
+  438  ls
+  439  history
+  440  code
+  441  exit
+  442  mkdir repaso_clase1y2
+  443  mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfacer_de_usuarios infraestructura  
+  444  ls
+  445  mkdir repaso_clase1y2
+  446  cd repaso_clase1y2/
+  447  mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfacer_de_usuarios infraestructura  
+  448  cd historia_de_la_contabilidad/
+  449  touch repaso.txt
+  450  cd ..
+  451  cd infraestructura/
+  452  touch repaso.js
+  453  cd ..
+  454  cd servidores/
+  455  touch repaso.py
+  456  cd ..
+  457  cd interfacer_de_usuarios/
+  458  touch repaso.xls
+  459  cd ..
+  460  cd que_haremos_hoy/
+  461  touch repaso.java
+  462  cd ..
+  463  cd ..
+  464  ls
+  465  cd repaso_clase1y2/
+  466  ls -r
+  467  ls -R
+  468  exit
+  469  exit
+  470  git config --list
+  471  git log
+  472  exit
+  473  git clone https://github.com/francogenre/Clase4-EjercitacionEnGrupo.git
+  474  exit
+  475  git remote add origin https://github.com/francogenre/tp-clase5-frontend.git
+  476*
+  477  git remote add origin https://github.com/francogenre/tp-clase5-frontend.git
+  478  git status
+  479  git add .
+  480  git commit -m "primer commit para enviar todos los archivos"
+  481  git push
+  482  git status
+  483  git log
+  484  git push origin main
+  485  git push origin master
+  486  git status
+  487  git branch -m naster main
+  488  git branch -m master main
+  489  git status
+  490  git push origin --delete master
+  491  git push -u origin main
+  492  git pull origin main
+  493  git pull origin main --allow-unrelated-histories
+  494  git status
+  495  git push origin main
+  496  git pull origin main
+  497  exit
+  498  touch main.js index.html
+  499  git add .
+  500  cd checkpoint-16-08-23-FrancoGenre/
+  501  touch index.html main.js
+  502  git status
+  503  git add .
+  504  git commit -m "commit 1 de FrancoGenre"
+  505  git push
+  506  git checkout -b feature
+  507  mkdir hardware Software SeguridadInformatica
+  508  cd hardware/
+  509  touch resumen.txt
+  510  cd .
+  511  cd ..
+  512  cd Software/
+  513  touch resumen.txt
+  514  cd ..
+  515  cd SeguridadInformatica/
+  516  touch resumen.txt
+  517  cd ..
+  518  git status
+  519  git add .
+  520  git commit -m "commit 2 de FrancoGenre"
+  521  git status
+  522  git push origin feature
+  523  git status
+  524  git checkout main
+  525  mv main.js resumenHardware.txt && mv index.html resumenSoftware.txt
+  526  echo "1. Microsoft Word" >> resumenSoftware.txt && echo echo "2. Google Chrome" >> resumenSoftware.txt && exho "3. "Adobe Photoshop" >> resumenSoftware.txt
+  527  echo "1. Microsoft Word" >> resumenSoftware.txt && echo echo "2. Google Chrome" >> resumenSoftware.txt &&  exho "3. "Adobe Photoshop" >> resumenSoftware.txt
+  528  echo "1. Microsoft Word" >> resumenSoftware.txt && echo echo "2. Google Chrome" >> resumenSoftware.txt &&  echo "1. Microsoft Word" >> resumenSoftware.txt && echo echo "2. Google Chrome" >> resumenSoftware.txt &&  echo "1. Microsoft Word" >> resumenSoftware.txt
+  529  echo "2. Google Chrome" >> resumenSoftware.txt
+  530  echo "3. Adobe Photoshop" >> resumenSoftware.txt
+  531  echo "1. RAM (Random Access Memory)" >> resumenHardware.txt
+  532  echo "2. ROM (Read-Only Memory)" >> resumenHardware.txt
+  533  echo "3. Cache" >> resumenHardware.txt
+  534  touch comandos.txt
+  535  history
